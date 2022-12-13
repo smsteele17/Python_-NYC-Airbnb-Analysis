@@ -1,5 +1,5 @@
 # Python_NYC_Airbnb_Analysis
-Python_Airbnb_Analysis
+# Python_Airbnb_Analysis
 This project is part of the CareerFoundry Data Analytics course that used public data from Instacart to uncover sales patterns using Python
 
 Objective
