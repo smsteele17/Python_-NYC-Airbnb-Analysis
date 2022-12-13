@@ -1,11 +1,11 @@
 # Python_NYC_Airbnb_Analysis
-# Python_Airbnb_Analysis
-This project is part of the CareerFoundry Data Analytics course that used public data from Instacart to uncover sales patterns using Python
+## Python_Airbnb_Analysis
+This project is part of the CareerFoundry Data Analytics course that used data from Airbnb to uncover patterns using geospatial analysis and machine learning models
 
-Objective
-Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
+##Objective
+Airbnb is a global community of hosts and travelers that operates as an online marketplace via their website and a mobile app for lodging, homestays, vacations rentals, and tourism activities.  It allows everyday people to share their space and environment by providing guests the feeling of connection and comfortability while exploring a new city. In this analysis, the primary focus is on geographical trends,  and how certain factors like pricing,  room type,  and minimum night stay can have an impact on where guests book.
 
-Data Dictionary & Project
+## Data Dictionary & Project
 Data Dictionary Here
 
 Final Excel Report Here
