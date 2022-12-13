@@ -10,6 +10,6 @@ Tableau Storyboard [Here](https://public.tableau.com/app/profile/shelby.steele/v
 
 Data [Here](https://docs.google.com/spreadsheets/d/11JqqHpVer8pryeNaYf4BM4bc69tJ_9Vh/edit?usp=share_link&ouid=112791904850399999148&rtpof=true&sd=true)
 
-NYC Borough geojson File [Here](https://drive.google.com/file/d/1AvURv103ZuA01bGEY0oz7ihOGOH95aXq/view?usp=share_link)
+NYC Borough Geojson File [Here](https://drive.google.com/file/d/1AvURv103ZuA01bGEY0oz7ihOGOH95aXq/view?usp=share_link)
 
-NYC Neighborhood geojson file [Here](https://drive.google.com/file/d/1jbEBeAlZEcaSkdciuJG4LGWrnlKc8dBU/view?usp=share_link)
+NYC Neighborhood Geojson File [Here](https://drive.google.com/file/d/1jbEBeAlZEcaSkdciuJG4LGWrnlKc8dBU/view?usp=share_link)
